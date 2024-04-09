@@ -1,1 +1,3 @@
-2.f) si se puede ver el erchivo pero este solo se encuentra en la rama 2(opcion_2),ahora al hacer el commit en el respuestas.txt se guarda en la rama principal (main)
+2.f) si se puede ver el erchivo pero este solo se encuentra en la rama 2(opcion_2)
+ahora al hacer el commit en el respuestas.txt se guarda en la rama principal (main)
+al combinar ambas ramas la segunda rama se desvia para volver a la rama principal
